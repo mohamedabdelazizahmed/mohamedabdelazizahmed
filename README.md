@@ -45,20 +45,20 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
             alt="react" width="40" height="40" style="max-width: 100%" />
     </a>
-
     <a href="https://laravel.com" rel="nofollow">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
             alt="laravel" width="40" height="40" style="max-width: 100%" />
     </a>
     <a href="https://expressjs.com/" rel="nofollow">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-plain-wordmark.svg"
-            alt="express" width="40" height="40" style="max-width: 100%" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+        alt="express" width="40" height="40" style="max-width: 100%" />
     </a>
     <a href="https://nestjs.com/" rel="nofollow">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain-wordmark.svg"
-            alt="express" width="40" height="40" style="max-width: 100%" />
+            alt="nestjs" width="40" height="40" style="max-width: 100%" />
     </a>
-    <a href="https://www.mongodb.com/" rel="nofollow">
+
+<a href="https://www.mongodb.com/" rel="nofollow">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
             alt="mongodb" width="40" height="40" style="max-width: 100%" />
     </a>
@@ -70,7 +70,12 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain-wordmark.svg"
             alt="postgresql" width="40" height="40" style="max-width: 100%" />
     </a>
-    <a href="https://www.amazonwebservices.com/" rel="nofollow">
+
+
+
+
+
+<a href="https://www.amazonwebservices.com/" rel="nofollow">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"
             alt="amazonwebservices" width="40" height="40" style="max-width: 100%" />
     </a>
@@ -85,12 +90,8 @@
     <a href="https://getbootstrap.com" rel="nofollow">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
             alt="bootstrap" width="40" height="40" style="max-width: 100%" />
-    </a>
-
-    <a href="https://vuetify.com" rel="nofollow">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuetify/vuetify-original.svg.svg"
-            alt="bootstrap" width="40" height="40" style="max-width: 100%" />
-    </a>
+    </a> 
+    <br/>
     <a href="https://www.w3.org/html/" rel="nofollow">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
             alt="html5" width="40" height="40" style="max-width: 100%" />
@@ -103,14 +104,10 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js"
             width="40" height="40" style="max-width: 100%" />
     </a>
-
-
-
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
             alt="javascript" width="40" height="40" style="max-width: 100%" />
     </a>
-
     <a href="https://www.typescriptlang.org/" rel="nofollow">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
             alt="typescript" width="40" height="40" style="max-width: 100%" />
