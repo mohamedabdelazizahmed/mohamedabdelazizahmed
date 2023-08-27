@@ -21,8 +21,8 @@
     
 * 📝 Blog 
 
-
 ### [](#connect-with-me)Connect with me:
-
-[![mohamedabdelazizahmed](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg)](https://dev.to) [![mohamedabdelazizahmed/](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/mohamedabdelaziz/)
-
+<p align="left" dir="auto">
+<a href="https://dev.to/mozaky" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mozaky" height="30" width="40" style="max-width: 100%;"></a>
+<a href="https://linkedin.com/in/mohammedzaky/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammedzaky/" height="30" width="40" style="max-width: 100%;"></a>
+</p>
