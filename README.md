@@ -13,9 +13,9 @@
 
 * 🔭 I’m currently working on \*\*ATLP, in AD Ports group \*\*
     
-* 🌱 I’m currently learning ** Kubernetes , microservices, adv. Net topics**
+* 🌱 I’m currently learning ** Kubernetes , Microservices, Advanced Nestjs topics**
     
-* 💬 Ask me about **react, angular, C#, .NET, CMS**
+* 💬 Ask me about **Laravel, Vue, Nestjs Express, React**
     
 * 📫 How to reach me **[mr.mohamedabelaziz@gmail.com](mailto:mr.mohamedabelaziz@gmail.com)**
     
