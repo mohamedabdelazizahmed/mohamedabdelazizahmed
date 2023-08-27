@@ -20,3 +20,9 @@
 * 📫 How to reach me **[mr.mohamedabelaziz@gmail.com](mailto:mr.mohamedabelaziz@gmail.com)**
     
 * 📝 Blog 
+
+
+### [](#connect-with-me)Connect with me:
+
+[![mohamedabdelazizahmed](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg)](https://dev.to) [![mohamedabdelazizahmed/](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/mohamedabdelaziz/)
+
