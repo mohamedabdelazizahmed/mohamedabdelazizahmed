@@ -27,6 +27,104 @@
 <a href="https://linkedin.com/in/mohammedzaky/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammedzaky/" height="30" width="40" style="max-width: 100%;"></a>
 </p>
 
+
+
+
+<p align="left" dir="auto">
+    <a href="https://angular.io" rel="nofollow">
+        <img src="https://camo.githubusercontent.com/9eecc42439347332f256a326363924551042f5b96235f972982512199476611a/68747470733a2f2f616e67756c61722e696f2f6173736574732f696d616765732f6c6f676f732f616e67756c61722f616e67756c61722e737667"
+            alt="angular" width="40" height="40"
+            data-canonical-src="https://angular.io/assets/images/logos/angular/angular.svg" style="max-width: 100%" />
+    </a>
+    <a href="https://vuejs.org/" rel="nofollow">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-plain-wordmark.svg"
+            alt="vuejs" width="40" height="40"
+            style="max-width: 100%" />
+    </a>
+    <a href="https://reactjs.org/" rel="nofollow">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+            alt="react" width="40" height="40" style="max-width: 100%" />
+    </a>
+
+    <a href="https://laravel.com" rel="nofollow">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
+            alt="laravel" width="40" height="40" style="max-width: 100%" />
+    </a>
+    <a href="https://expressjs.com/" rel="nofollow">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-plain-wordmark.svg"
+            alt="express" width="40" height="40" style="max-width: 100%" />
+    </a>
+    <a href="https://nestjs.com/" rel="nofollow">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain-wordmark.svg"
+            alt="express" width="40" height="40" style="max-width: 100%" />
+    </a>
+    <a href="https://www.mongodb.com/" rel="nofollow">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+            alt="mongodb" width="40" height="40" style="max-width: 100%" />
+    </a>
+    <a href="https://www.mysql.com/" rel="nofollow">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+            alt="mysql" width="40" height="40" style="max-width: 100%" />
+    </a>
+    <a href="https://www.postgresql.com/" rel="nofollow">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain-wordmark.svg"
+            alt="postgresql" width="40" height="40" style="max-width: 100%" />
+    </a>
+    <a href="https://www.amazonwebservices.com/" rel="nofollow">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"
+            alt="amazonwebservices" width="40" height="40" style="max-width: 100%" />
+    </a>
+    <a href="https://www.docker.com/" rel="nofollow">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg"
+            alt="docker" width="40" height="40" style="max-width: 100%" />
+    </a>
+    <a href="https://laravel.com" rel="nofollow">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original-wordmark.svg"
+            alt="laravel" width="40" height="40" style="max-width: 100%" />
+    </a>
+    <a href="https://getbootstrap.com" rel="nofollow">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+            alt="bootstrap" width="40" height="40" style="max-width: 100%" />
+    </a>
+
+    <a href="https://vuetify.com" rel="nofollow">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuetify/vuetify-original.svg.svg"
+            alt="bootstrap" width="40" height="40" style="max-width: 100%" />
+    </a>
+    <a href="https://www.w3.org/html/" rel="nofollow">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+            alt="html5" width="40" height="40" style="max-width: 100%" />
+    </a>
+    <a href="https://www.w3schools.com/css/" rel="nofollow">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+            alt="css3" width="40" height="40" style="max-width: 100%" />
+    </a>
+    <a href="https://d3js.org/" rel="nofollow">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js"
+            width="40" height="40" style="max-width: 100%" />
+    </a>
+
+
+
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+            alt="javascript" width="40" height="40" style="max-width: 100%" />
+    </a>
+
+    <a href="https://www.typescriptlang.org/" rel="nofollow">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+            alt="typescript" width="40" height="40" style="max-width: 100%" />
+    </a>
+    <a href="https://www.selenium.dev" rel="nofollow">
+        <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"
+            alt="selenium" width="40" height="40" style="max-width: 100%" />
+    </a>
+
+</p>
+
+
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedabdelazizahmed&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
