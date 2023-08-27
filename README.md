@@ -11,7 +11,7 @@
 
 [![](https://camo.githubusercontent.com/f0bbe18756e02955363ec0a07623020a7ec1a228dbb148c3c601b3c630439dca/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f666f6c6c6f772f3f6c6f676f3d74776974746572267374796c653d666f722d7468652d6261646765)](https://twitter.com/)
 
-* 🔭 I’m currently working on \*\*ATLP, in AD Ports group \*\*
+* 🔭 I’m currently working on ClientSideKick 
     
 * 🌱 I’m currently learning ** Kubernetes , Microservices, Advanced Nestjs topics**
     
