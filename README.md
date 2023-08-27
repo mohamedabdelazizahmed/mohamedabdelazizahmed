@@ -23,12 +23,12 @@
 
 ### [](#connect-with-me)Connect with me:
 <p align="left" dir="auto">
-<a href="https://dev.to/mozaky" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mozaky" height="30" width="40" style="max-width: 100%;"></a>
+<a href="https://dev.to/mohamedabdelazizahmed" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mohamedabdelazizahmed" height="30" width="40" style="max-width: 100%;"></a>
 <a href="https://linkedin.com/in/mohammedzaky/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammedzaky/" height="30" width="40" style="max-width: 100%;"></a>
 </p>
 
 
-
+### [](#languages-and-tools)Languages and Tools:
 
 <p align="left" dir="auto">
     <a href="https://angular.io" rel="nofollow">
@@ -92,6 +92,10 @@
             alt="bootstrap" width="40" height="40" style="max-width: 100%" />
     </a> 
     <br/>
+<a href="https://vuetify.com" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuetify/vuetify-original.svg"
+        alt="vuetify" width="40" height="40" style="max-width: 100%" />
+</a>
     <a href="https://www.w3.org/html/" rel="nofollow">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
             alt="html5" width="40" height="40" style="max-width: 100%" />
