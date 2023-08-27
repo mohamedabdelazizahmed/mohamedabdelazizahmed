@@ -27,4 +27,6 @@
 <a href="https://linkedin.com/in/mohammedzaky/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammedzaky/" height="30" width="40" style="max-width: 100%;"></a>
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedabdelazizahmed)](https://github.com/anuraghazra/github-readme-stats)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=mohamedabdelazizahmed&theme=dark&hide_border=true)](https://git.io/streak-stats)
