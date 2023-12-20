@@ -24,7 +24,7 @@
 ### [](#connect-with-me)Connect with me:
 <p align="left" dir="auto">
 <a href="https://dev.to/mohamedabdelazizahmed" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mohamedabdelazizahmed" height="30" width="40" style="max-width: 100%;"></a>
-<a href="https://linkedin.com/in/mohammedzaky/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammedzaky/" height="30" width="40" style="max-width: 100%;"></a>
+<a href="https://www.linkedin.com/in/mohamedabdel-aziz/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamedabdel-aziz/" height="30" width="40" style="max-width: 100%;"></a>
 </p>
 
 
